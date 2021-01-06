@@ -5,7 +5,7 @@
 `adafruit_scd30`
 ================================================================================
 
-Helper library for the SCD30 e-CO2 sensor
+Helper library for the SCD30 NDIR CO2 sensor
 
 
 * Author(s): Bryan Siepert
